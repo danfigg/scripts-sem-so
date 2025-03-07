@@ -1,3 +1,3 @@
-![Ejecucion helloworld.bat](Hands-on-2/imagenes/hello_world.png)
-![Ejecucion create.bat](Hands-on-2/imagenes/create.png)
-![Ejecucion create.bat](Hands-on-2/imagenes/mytext.png)
+![Ejecucion helloworld.bat](imagenes/hello_world.png)
+![Ejecucion create.bat](imagenes/create.png)
+![Ejecucion create.bat](imagenes/mytext.png)
