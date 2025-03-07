@@ -13,6 +13,6 @@ mkdir Test
 # Cambiarse al directorio Test
 cd Test
 
-# Listar el contenido del directorio Test (estará vacío al principio)
+# Listar el contenido del directorio Test
 echo "Contenido del directorio Test:"
 ls
