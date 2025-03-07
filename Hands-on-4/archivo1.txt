@@ -1,0 +1,4 @@
+Este es un archivo de prueba.
+Contiene varias líneas de texto.
+Algunas líneas tienen palabras clave como error y éxito.
+Se usa para probar grep y comparación de archivos.
