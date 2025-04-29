@@ -1,0 +1,6 @@
+![Imagen de ejemplo 1](imagenes/vm1.png)
+![Imagen de ejemplo 2](imagenes/vm2.png)
+![Imagen de ejemplo 3](imagenes/vm3.png)
+![Imagen de ejemplo 4](imagenes/vm4.png)
+![Imagen de ejemplo 5](imagenes/vm5.png)
+![Imagen de ejemplo 6](imagenes/vm6.png)
